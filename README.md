@@ -14,7 +14,7 @@
 参见：https://forum.xda-developers.com/t/root-magisk-module-hardware-origin-bypass-for-xiaomi-devices.3899319/
 
 # 关于作者
-就是这个GitHub账号的所有者，或者某个N10P交流群中头像全黑的那位。
+就是这个GitHub账号的所有者。
 
 # 另外感谢
 NhCloud.
